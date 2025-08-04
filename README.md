@@ -2,7 +2,7 @@
 This is a mod in Grounded 2 that increases the range in which you can craft from containers and hot-deposit items into storage/chests.
 Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 80 cm (or 8000.0).** 
 
-## Installation
+### Installation
 1. Download the **8xMoreProximityRange.rar** from the releases tab
 2. Copy the three (3) files inside the .rar file to Grounded2/Augusta/Contents/Pak
 3. File structure inside the Paks should be like below
@@ -24,10 +24,9 @@ Grounded 2
 
 4. Enjoy the Game!
 
-```
-note: This has only been tested using the Steam version.
-```
-## Uninstallation
+> Note: This has only been tested using the Steam version.
+
+### Uninstallation
 Delete the three (3) 8xMoreProximityRange_00004_P files inside the Paks folder
 
 ## <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/youtube.svg" alt="youtube" width="20" height="20"/> Video Preview 
@@ -39,4 +38,4 @@ Delete the three (3) 8xMoreProximityRange_00004_P files inside the Paks folder
 - retoc
 
 ## Credits
-Huge thanks to ***Caites*** from Nexusmods. 'Made me learn to research about creating mods like this. 
+Huge thanks to ***Caites*** from Nexusmods. 'Made me learn to research about creating mods like this in UE5 games. 
