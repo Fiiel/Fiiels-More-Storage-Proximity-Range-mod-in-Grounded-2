@@ -1,6 +1,7 @@
 # More-Storage-Proximity-Range-in-Grounded-2
 This is a mod in Grounded 2 that increases the range in which you can craft from containers and hot-deposit items into storage/chests.
 Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 80 cm (or 8000.0).** 
+> Works with **Game Version 0.1.1.3 Rel 1954911**
 
 ### Installation
 1. Download the **8xMoreProximityRange.rar** from the releases tab
