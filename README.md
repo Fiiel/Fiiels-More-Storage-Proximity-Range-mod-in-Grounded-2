@@ -5,7 +5,7 @@ Currently, the default or vanilla value of the proximity range in-game is 20 cm 
 
 ### Installation
 1. Download the **8xMoreProximityRange.rar** from the [releases tab](https://github.com/Fiiel/More-Storage-Proximity-Range-in-Grounded-2/releases/tag/Release)
-2. Copy the three (3) files inside the .rar file to Grounded2/Augusta/Contents/Pak
+2. Copy and paste the three (3) files inside the .rar file to `Grounded2/Augusta/Contents/Pak`
 3. File structure inside the Paks should be like below
 
 ```md
