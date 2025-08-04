@@ -30,7 +30,7 @@ note: This has only been tested using the Steam version.
 ## Uninstallation
 Delete the three (3) 8xMoreProximityRange_00004_P files inside the Paks folder
 
-## <img src="[https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/large/filled/youtube.svg](https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/youtube.svg)" alt="youtube" width="20" height="20"/> Video Preview 
+## <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/youtube.svg" alt="youtube" width="20" height="20"/> Video Preview 
 [![Watch the video](https://img.youtube.com/vi/bSR_eucOgYA/0.jpg)](https://www.youtube.com/watch?v=bSR_eucOgYA)
 
 ## Tools Used
