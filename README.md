@@ -29,7 +29,8 @@ note: This has only been tested using the Steam version.
 ```
 
 ## Video Preview
-https://youtu.be/bSR_eucOgYA
+[![Watch the video](https://img.youtube.com/vi/bSR_eucOgYA/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
 ## Tools Used
 - Fmodel
 - UnrealPak
