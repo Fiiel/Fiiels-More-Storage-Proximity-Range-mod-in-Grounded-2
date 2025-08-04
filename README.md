@@ -29,7 +29,7 @@ note: This has only been tested using the Steam version.
 ```
 
 ## Video Preview
-[![Watch the video](https://img.youtube.com/vi/bSR_eucOgYA/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/bSR_eucOgYA/0.jpg)](https://www.youtube.com/watch?v=bSR_eucOgYA)
 
 ## Tools Used
 - Fmodel
