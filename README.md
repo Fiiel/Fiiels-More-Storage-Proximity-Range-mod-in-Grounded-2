@@ -1,20 +1,24 @@
 # More-Storage-Proximity-Range-in-Grounded-2
 This is a mod in Grounded 2 that increases the range in which you can craft from containers and hot-deposit items into storage/chests.
-Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 80 cm (or 8000.0).** 
+Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 40/60/80/100 cm (or 4000.0/6000.0/8000.0/10000.0).** 
+
+> [!IMPORTANT]
+> Only tested on Steam
 > Works with **Game Version 0.1.1.3 Rel 1954911**
+> DOES NOT include plank and weed stem storage pallets.
 
 ### Installation
-1. Download the **8xMoreProximityRange.rar** from the [releases tab](https://github.com/Fiiel/More-Storage-Proximity-Range-in-Grounded-2/releases/tag/Release)
-2. Copy and paste the three (3) files inside the .rar file to `Grounded2/Augusta/Contents/Pak`
+1. Select your preferred modded range from the [Releases Tab](https://github.com/Fiiel/More-Storage-Proximity-Range-in-Grounded-2/releases/tag/Release), then download the correspoding .rar file.
+2. Extract, copy and paste the three (3) files inside the .rar file to `Grounded2/Augusta/Contents/Pak`
 3. File structure inside the Paks should be like below
 
 ```md
 Grounded 2
 └── Augusta
     └── Paks
-	    ├── 8xMoreProximityRange_00004_P.pak
-	    ├── 8xMoreProximityRange_00004_P.ucas
-	    ├── 8xMoreProximityRange_00004_P.utoc
+	    ├── 8xMoreProximityRange_00004_P.pak  (if you downloaded 8x range mod)
+	    ├── 8xMoreProximityRange_00004_P.ucas (if you downloaded 8x range mod)
+	    ├── 8xMoreProximityRange_00004_P.utoc (if you downloaded 8x range mod)
 	    ├── Augusta-WinGRTS_0_P.pak
 	    ├── Augusta-WinGRTS_0_P.ucas
 	    ├── Augusta-WinGRTS_0_P.utoc
@@ -35,6 +39,7 @@ Delete the three (3) 8xMoreProximityRange_00004_P files inside the Paks folder
 
 ## Tools Used
 - Fmodel
+- UAssetGUI
 - UnrealPak
 - retoc
 
