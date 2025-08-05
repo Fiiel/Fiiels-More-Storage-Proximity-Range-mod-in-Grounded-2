@@ -30,8 +30,6 @@ Grounded 2
 
 4. Enjoy the Game!
 
-> Note: This has only been tested using the Steam version.
-
 ### Uninstallation
 Delete the three (3) 8xMoreProximityRange_00004_P files inside the Paks folder
 
