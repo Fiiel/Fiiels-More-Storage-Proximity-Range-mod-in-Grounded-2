@@ -3,9 +3,10 @@ This is a mod in Grounded 2 that increases the range in which you can craft from
 Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 40/60/80/100 cm (or 4000.0/6000.0/8000.0/10000.0).** 
 
 > [!IMPORTANT]
-> Only tested on Steam
-> Works with **Game Version 0.1.1.3 Rel 1954911**
-> DOES NOT include plank and weed stem storage pallets.
+> Only tested on Steam. Works with **Game Version 0.1.1.3 Rel 1954911**
+
+> [!IMPORTANT]
+> DOES NOT affect the range of plank and weed stem storage pallets.
 
 ### Installation
 1. Select your preferred modded range from the [Releases Tab](https://github.com/Fiiel/More-Storage-Proximity-Range-in-Grounded-2/releases/tag/Release), then download the correspoding .rar file.
