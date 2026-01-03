@@ -1,7 +1,7 @@
 > [!NOTE]  
 > This will be updated once Grounded 2 1.0 releases.
 
-# More-Storage-Proximity-Range-in-Grounded-2
+# 📦 More-Storage-Proximity-Range-in-Grounded-2
 This is a mod in Grounded 2 that increases the range in which you can craft from containers and hot-deposit items into storage/chests.
 Currently, the default or vanilla value of the proximity range in-game is 20 cm (or 2000.0). **This mod increases that to 40/60/80/100 cm (or 4000.0/6000.0/8000.0/10000.0).** 
 
@@ -39,11 +39,11 @@ Delete the three (3) MoreProximityRange_00004_P files inside the Paks folder
 ## <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/refs/heads/main/medium/filled/youtube.svg" alt="youtube" width="20" height="20"/> Video Preview 
 [![Watch the video](https://img.youtube.com/vi/bSR_eucOgYA/0.jpg)](https://www.youtube.com/watch?v=bSR_eucOgYA)
 
-## Tools Used
-- Fmodel
-- UAssetGUI
-- UnrealPak
-- retoc
+## 🛠️ Tools Used
+- [FModel](https://fmodel.app)
+- [UAssetGUI](https://github.com/atenfyr/UAssetGUI)
+- [UnrealPak](https://www.unrealengine.com/en-US)
+- [retoc](https://github.com/trumank/retoc)
 
-## Credits
+## ©️ Credits
 Huge thanks to ***Caites*** from Nexusmods. 'Made me learn to research about creating mods like this in UE5 games. 
